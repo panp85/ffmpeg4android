@@ -1,0 +1,3 @@
+C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/jxffmpegrun.dir
+C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir

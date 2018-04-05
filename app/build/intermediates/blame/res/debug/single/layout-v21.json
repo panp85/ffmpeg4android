@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\android_projects\\ffmpeg-android-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\e599658b21e7fdeefaf92e19c923f05eb03c1f6d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\android_projects\\ffmpeg-android-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\e599658b21e7fdeefaf92e19c923f05eb03c1f6d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\android_projects\\ffmpeg-android-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\e599658b21e7fdeefaf92e19c923f05eb03c1f6d\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\android_projects\\ffmpeg-android-test\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\e599658b21e7fdeefaf92e19c923f05eb03c1f6d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

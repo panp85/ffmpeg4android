@@ -1,0 +1,7 @@
+# ninja log v5
+59	604	0	CMakeFiles/jxffmpegrun.dir/src/main/cpp/ffmpeg_filter.c.o	927c87c6c40d7067
+120	625	0	CMakeFiles/jxffmpegrun.dir/src/main/cpp/pp_ffmpeg_cmd_run.c.o	146af420364a1335
+23	918	0	CMakeFiles/jxffmpegrun.dir/src/main/cpp/cmdutils.c.o	f813a02613558582
+84	935	0	CMakeFiles/jxffmpegrun.dir/src/main/cpp/ffmpeg_opt.c.o	c8d1426dead55ea7
+43	1111	0	CMakeFiles/jxffmpegrun.dir/src/main/cpp/ffmpeg.c.o	34da044fbc7e5471
+1111	1773	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libjxffmpegrun.so	2f689e4cf4119593

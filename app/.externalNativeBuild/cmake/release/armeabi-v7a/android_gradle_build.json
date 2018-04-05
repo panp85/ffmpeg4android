@@ -1,0 +1,118 @@
+
+{
+	"buildFiles" : [ "C:/android_projects/ffmpeg-android-test/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\android_projects\\ffmpeg-android-test\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"libraries" : 
+	{
+		"avcodec-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "avcodec",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libavcodec.so",
+			"toolchain" : "1729674007"
+		},
+		"avfilter-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "avfilter",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libavfilter.so",
+			"toolchain" : "1729674007"
+		},
+		"avformat-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "avformat",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libavformat.so",
+			"toolchain" : "1729674007"
+		},
+		"avutil-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "avutil",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libavutil.so",
+			"toolchain" : "1729674007"
+		},
+		"fdk-aac-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "fdk-aac",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libfdk-aac.so",
+			"toolchain" : "1729674007"
+		},
+		"jxffmpegrun-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "jxffmpegrun",
+			"buildCommand" : "C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\android_projects\\ffmpeg-android-test\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target jxffmpegrun",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS -I..\\..\\..\\..\\src\\main\\ffmpeg-3.2.5  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/cmdutils.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS -I..\\..\\..\\..\\src\\main\\ffmpeg-3.2.5  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS -I..\\..\\..\\..\\src\\main\\ffmpeg-3.2.5  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg_filter.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS -I..\\..\\..\\..\\src\\main\\ffmpeg-3.2.5  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg_opt.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS -I..\\..\\..\\..\\src\\main\\ffmpeg-3.2.5  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -g -Os -DNDEBUG  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/pp_ffmpeg_cmd_run.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "C:/android_projects/ffmpeg-android-test/app/build/intermediates/cmake/release/obj/armeabi-v7a/libjxffmpegrun.so",
+			"toolchain" : "1729674007"
+		},
+		"swresample-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "swresample",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libswresample.so",
+			"toolchain" : "1729674007"
+		},
+		"swscale-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "swscale",
+			"buildType" : "release",
+			"output" : "C:/android_projects/ffmpeg-android-test/app/src/main/jniLibs/armeabi-v7a/libswscale.so",
+			"toolchain" : "1729674007"
+		}
+	},
+	"toolchains" : 
+	{
+		"1729674007" : 
+		{
+			"cCompilerExecutable" : "C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

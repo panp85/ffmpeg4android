@@ -1,0 +1,62 @@
+
+{
+	"buildFiles" : [ "C:/android_projects/ffmpeg-android-test/app/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\android_projects\\ffmpeg-android-test\\app\\.externalNativeBuild\\cmake\\debug\\mips --target clean"
+	],
+	"libraries" : 
+	{
+		"jxffmpegrun-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "jxffmpegrun",
+			"buildCommand" : "C:\\Users\\pc\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\android_projects\\ffmpeg-android-test\\app\\.externalNativeBuild\\cmake\\debug\\mips --target jxffmpegrun",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/cmdutils.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg_filter.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/ffmpeg_opt.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot -Djxffmpegrun_EXPORTS  -isystem C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/mipsel-linux-android -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "C:/android_projects/ffmpeg-android-test/app/src/main/cpp/pp_ffmpeg_cmd_run.c",
+					"workingDirectory" : "C:/android_projects/ffmpeg-android-test/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "C:/android_projects/ffmpeg-android-test/app/build/intermediates/cmake/debug/obj/mips/libjxffmpegrun.so",
+			"toolchain" : "1729674007"
+		}
+	},
+	"toolchains" : 
+	{
+		"1729674007" : 
+		{
+			"cCompilerExecutable" : "C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/pc/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
